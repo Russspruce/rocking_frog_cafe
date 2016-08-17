@@ -1,0 +1,62 @@
+body {
+  background-color: black;
+
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+p {
+  font-size: 0.5em;
+}
+
+.menu_list {
+  font-size: 1.2em;
+}
+
+.jumbotron {
+  background-color: #ffffeb;
+}
+
+.navbar {
+  background-color: #800000;
+}
+
+.deal {
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+.onPage {
+  color: white;
+  font-weight: bold;
+}
+.center-all {
+  text-align: center;
+}
+
+
+.footer {
+  text-align: center;
+  font-size:0.5em;
+
+}
+
+.about_image {
+  text-align: center;
+  height: ;
+  width: ;
+}
+
+.fb_link {
+  float: right;
+
+}
+
+.disclaimer {
+  text-align: center;
+  font-size: .75em;
+}
